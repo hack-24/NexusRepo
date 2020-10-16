@@ -13,9 +13,9 @@
   
   <distributionManagement>
   <snapshotRepository>
-  <id>lab10_CICD</id>
-  <name>lab10_CICD</name>
-  <url>http://localhost:8081/repository/lab10_CICD/</url>
+  <id>Nexus_Jenkins</id>
+  <name>Nexus_Jenkins</name>
+  <url>http://localhost:8081/repository/Nexus_Jenkins/</url>
   
   
   </snapshotRepository>
